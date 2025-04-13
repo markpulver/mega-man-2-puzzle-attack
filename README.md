@@ -81,21 +81,6 @@ should such disputes occur.
 
 
 
-What Comes With This Game
-=========================
-
-In the directory into which this game is installed, the following files should
-be found. If they are not, it may be an altered version of the game, and may
-violate the Legal Disclaimer above. They should be:
-
-    - controls.txt: The file explaining the game controls
-    - MM2PA.exe: The executable game file; run this to play the game
-    - readme.txt: This file
-
-    - data/MM2PA.py: The Python source code file for the game
-
-
-
 Why I Made This Game
 ====================
 
