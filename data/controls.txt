@@ -1,0 +1,29 @@
+
+Mega Man 2: Puzzle Attack
+=========================
+
+by Mark Pulver
+
+version 1.1: 04/12/2025
+version 1.0: 01/16/2005
+
+
+
+                            Game Controls
+                            -------------
+
+             Left, Numpad 4, or A: Move piece left
+            Right, Numpad 6, or D: Move piece right
+  Up, Numpad 8, Numpad 9, W, or E: Rotate piece clockwise
+                    Numpad 7 or Q: Rotate piece counter-clockwise
+Down, Numpad 2, Numpad 5, X, or S: Drop piece 4x as fast (HOLD KEY)
+                Numpad 0 or Space: Instantly drop piece as far as possible
+                            F1-F9: Change weapon being used (to weapons of
+                                   colored faces only; can do while paused)
+ Enter, Numpad Enter, or Spacebar: Pause game (while blocks falling)
+                              Esc: Quit prompt (during stage select or while
+                                   blocks falling)
+                          Any key: Skip to title screen, skip credits, or
+                                   unpause (during intro or credits, or while
+                                   game is paused; F1-F9 don't unpause)
+     Cursor Keys or Numpad Arrows: Move stage select cursor
